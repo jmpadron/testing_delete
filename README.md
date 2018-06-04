@@ -10,3 +10,6 @@ This is a change in the master.
 
 # develop3
 Changing readme file. This is comming from brach develop3.
+
+# master
+This is another change in the master.
